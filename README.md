@@ -5,9 +5,7 @@ A simple real-time face detection project using Python and OpenCV. It captures v
 ---
 
 ## 📸 Demo Screenshot
-
-> *(Add your screenshot here later if you have one)*  
-> Example:  
+  
 > ![Demo](Screenshot 2025-07-11 185216.png)
 
 ---
